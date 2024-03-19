@@ -1,0 +1,11 @@
+commit 1b1c74658aae9bf0237990adb7ca9e683aa18c87 (HEAD -> main)
+Author: 高橋翔 <takahashisho@takahashishounoMacBook-Air.local>
+Date:   Tue Mar 19 06:31:16 2024 +0900
+
+    日本語訳を追加
+
+commit 3b109bc1194323d6ff821246e23178f8a4fc630e
+Author: 高橋翔 <takahashisho@takahashishounoMacBook-Air.local>
+Date:   Tue Mar 19 06:26:25 2024 +0900
+
+    hello_world.txtを追加
